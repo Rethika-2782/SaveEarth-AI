@@ -1,4 +1,4 @@
-<img width="1068" height="1600" alt="WhatsApp Image 2026-07-14 at 06 36 06" src="https://github.com/user-attachments/assets/21b09d5a-c605-4c77-a307-430a90231957" /># 🌍 SAVIOR AI
+ 🌍 SAVIOR AI
 
 **Savior AI is an environmental impact platform built as a React + Vite prototype with a Node/Express backend scaffold.**
 
