@@ -1,9 +1,10 @@
-# 🌍 SAVIOR AI
+<img width="1068" height="1600" alt="WhatsApp Image 2026-07-14 at 06 36 06" src="https://github.com/user-attachments/assets/21b09d5a-c605-4c77-a307-430a90231957" /># 🌍 SAVIOR AI
 
 **Savior AI is an environmental impact platform built as a React + Vite prototype with a Node/Express backend scaffold.**
 
 Users can explore waste analysis, food rescue, NGO giving, and a gamified sustainability journey. The frontend shows an immersive prototype experience, while the backend scaffold includes real routes for AI-powered waste analysis, database persistence, and Firebase-authenticated user sync.
 
+##**Live link** : https://chipper-travesseiro-8c76fa.netlify.app/
 ## Project description
 
 Savior AI helps users turn everyday waste and food sharing into measurable impact. The app combines an AI-driven waste lab, a food rescue marketplace, NGO donation campaigns, a global leaderboard, and a kid-friendly Guardian mode, all wrapped in a reward and premium system.
@@ -126,6 +127,9 @@ npm run dev
 2. Use Firebase Web Auth in the frontend and send the ID token to `/api/users/sync`.
 3. Point the food rescue and donation screens to `/api/food-share`, `/api/campaigns`, and `/api/donate`.
 4. Update `CLIENT_ORIGIN` in `server/.env` after deployment.
+
+##**POSTER** : <img width="1068" height="1600" alt="WhatsApp Image 2026-07-14 at 06 36 06" src="https://github.com/user-attachments/assets/1fb7efcb-4cc4-4ffa-9e7d-c49d958fc6ca" />
+
 
 ## Tech stack
 
